@@ -15,7 +15,7 @@ import os
 from urllib.request import urlopen
 
 # listen on port 5050, receive inputs
-HOST, PORT = "0.0.0.0", 5050
+HOST, PORT = "0.0.0.0", 5070
 
 THIS_FILE = os.path.realpath(__file__)
 
